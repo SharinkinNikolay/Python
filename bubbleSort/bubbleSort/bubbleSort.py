@@ -1,5 +1,3 @@
-import array
-
 def bubbleSort(array):
     n = len(array)
     if n == 1:
